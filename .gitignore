@@ -1,0 +1,12 @@
+*.py[cod]
+*.pyc
+__pycache__
+
+*.log
+pip-log.txt
+.idea
+*.~lock*
+
+.env
+
+local_settings.py
